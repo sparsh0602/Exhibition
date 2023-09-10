@@ -32,4 +32,8 @@ font-size: 18px;
         min-height: 1150px;
         background-position: right center;
     }
+    .photo-section-heading{
+        font-size: 50px;
+        text-align: center;
+    }
 }

@@ -8,7 +8,7 @@ export default function Experience() {
         <div className="photo-section-child">
             <div className="photo-section-top">
                 <div className="photo-section-heading cred-experience-heading" style={{marginBottom:'60px'}}>
-                Print Media & Social Media Publicity :
+                Print Media & Social Media Publicity 
 
                 </div>
                 {/* <div className="photo-section-subheading cred-experience-subheading">
